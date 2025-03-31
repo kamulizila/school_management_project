@@ -28,6 +28,8 @@ const Home = () => {
               <li className="nav-item"><a className="nav-link" href="#">Teachers</a></li>
               <li className="nav-item"><a className="nav-link" href="#">Admissions</a></li>
               <li className="nav-item"><a className="nav-link" href="#">Contact</a></li>
+              <li className="nav-item" to="/register"><a className="nav-link" href="#">Register</a></li>
+              <li className="nav-item" to="/login"><a className="nav-link" href="#">Login</a></li>
             </ul>
           </div>
         </div>
